@@ -67,17 +67,7 @@
 
 </p>
 
----
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nawalkant145&show_icons=true&theme=radical&border_radius=10" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nawalkant145&theme=radical&border_radius=10" height="160"/>
-</p>
-
----
 
 ## 🧠 Coding Profiles
 
@@ -97,30 +87,4 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nawalkant145&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawalkant145&theme=react-dark" />
-</p>
-
----
-
-## 🎓 Education
-
-**Ajay Kumar Garg Engineering College**
-B.Tech – Computer Science & Engineering
-2023 – 2027 | CGPA: 7.0
-
----
-
-## ✨ Quote
-
-<p align="center">
-
-"Build. Learn. Improve. Repeat."
-
 </p>
