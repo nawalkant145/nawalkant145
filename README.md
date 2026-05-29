@@ -27,11 +27,11 @@
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/nawal-kant" target="_blank">
+<a href="https://www.linkedin.com/in/nawal-kant-30b694281/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/nawal2310145/)" target="_blank">
+<a href="https://leetcode.com/u/nawal2310145/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
 
