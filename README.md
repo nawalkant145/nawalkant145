@@ -69,36 +69,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🛒 ShopNexa
-
-AI-powered E-Commerce Platform
-
-* Stripe Payment Integration
-* Gemini AI Product Recommendations
-* Redux Toolkit State Management
-* JWT Authentication
-* Responsive UI
-
-### 💼 GigFlow
-
-Freelance Marketplace Platform
-
-* JWT Authentication
-* Socket.io Real-time Messaging
-* Role-Based Access Control
-* MongoDB + Express Backend
-
-### 💰 Finance Management API
-
-* Prisma ORM
-* PostgreSQL Database
-* RBAC Authorization
-* Zod Validation
-* Jest Testing
-
----
 
 ## 📊 GitHub Stats
 
