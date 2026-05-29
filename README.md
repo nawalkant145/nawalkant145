@@ -73,3 +73,6 @@
 * Rating: 1417
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nawalkant145&style=flat-square&color=red" alt="Profile Views" />
+</p>
