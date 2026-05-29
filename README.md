@@ -38,18 +38,11 @@
 </p>
 
 ---
-
-## 🌐 Portfolio
-
 <p align="center">
 <a href="https://nawalportfolioo.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
-
----
-
-## 📄 Resume
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1o4ft-aOy0zzichIq1hFhpxbe4SFqyS3O/view" target="_blank">
