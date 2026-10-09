@@ -44,11 +44,14 @@
 </a>
 </p>
 
+---
 <p align="center">
-<a href="https://drive.google.com/file/d/1o4ft-aOy0zzichIq1hFhpxbe4SFqyS3O/view" target="_blank">
-<img src="https://drive.google.com/file/d/1vgbjP_RIeBMeSvR30jKwihVheHaDd4G2/view?usp=sharing" />
-</a>
+  <a href="https://drive.google.com/file/d/1vgbjP_RIeBMeSvR30jKwihVheHaDd4G2/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-Download%20PDF-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My Resume" />
+  </a>
 </p>
+
+---
 
 ---
 
