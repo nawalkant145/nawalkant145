@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1o4ft-aOy0zzichIq1hFhpxbe4SFqyS3O/view" target="_blank">
-<img src="[https://img.shields.io/badge/View%20Resume-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white](https://drive.google.com/file/d/1vgbjP_RIeBMeSvR30jKwihVheHaDd4G2/view?usp=sharing)" />
+<img src="https://drive.google.com/file/d/1vgbjP_RIeBMeSvR30jKwihVheHaDd4G2/view?usp=sharing" />
 </a>
 </p>
 
